@@ -1,0 +1,8 @@
+.settings/
+Debug/
+STM32L476RGTX_FLASH.ld
+STM32L476RGTX_RAM.ld
+I2C-EEPROM Debug.launch
+.project
+.mxproject
+.cproject
